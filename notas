@@ -1,0 +1,9 @@
+model
+repositories
+services
+config
+dto
+utils
+....
+
+@PrePersist -> (JPA) -> antes de que el registro se guarde ejecute la validacion que tenemos
